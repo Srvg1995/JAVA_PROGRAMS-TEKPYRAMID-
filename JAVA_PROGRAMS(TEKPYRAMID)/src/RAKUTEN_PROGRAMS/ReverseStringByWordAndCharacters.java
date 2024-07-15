@@ -1,4 +1,4 @@
-package Rakuten_Programs;
+package RAKUTEN_PROGRAMS;
 
 public class ReverseStringByWordAndCharacters {
 
@@ -14,7 +14,7 @@ public class ReverseStringByWordAndCharacters {
 			rev = " "+str[i] + rev;
 
 		}
-		//System.out.println(rev);
+//System.out.println(rev);
 
 		char ch[] = rev.toCharArray();
 

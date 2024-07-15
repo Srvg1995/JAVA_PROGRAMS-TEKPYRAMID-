@@ -1,8 +1,8 @@
-package Rakuten_Programs;
+package RAKUTEN_PROGRAMS;
 
 import java.util.Iterator;
 
-public class Occurence_program {
+public class OccurenceProgram {
 
 	public static void main(String[] args) {
 		String s1="Welcome";
