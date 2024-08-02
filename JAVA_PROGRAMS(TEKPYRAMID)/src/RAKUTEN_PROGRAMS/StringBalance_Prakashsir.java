@@ -7,7 +7,7 @@ public class StringBalance_Prakashsir {
 
 	public static void main(String[] args) {
 		String s="{}[{(}])" ;
-		//String s="[{()}]" ;
+		//String s="[{()}]" ;//Balanced
 		
 		ArrayList<Character> list=new ArrayList<Character>();
 		for(int i=0;i<s.length();i++) {
